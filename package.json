@@ -42,7 +42,7 @@
     "@nestjs/config": "^1.1.0",
     "@nestjs/core": "8.4.2",
     "@nestjs/swagger": "^5.2.1",
-    "@oclif/core": "^1",
+    "@oclif/core": "^2.4.0",
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
     "@typechain/ethers-v5": "^10.0.0",
