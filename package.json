@@ -85,7 +85,7 @@
     "source-map-support": "^0.5.20",
     "swagger-ui-express": "^4.3.0",
     "ts-generator": "^0.1.1",
-    "ts-jest": "^27.1.4",
+    "ts-jest": "^29.1.1",
     "ts-loader": "^9.2.3",
     "ts-node": "^10.7.0",
     "tsc-alias": "^1.6.5",
