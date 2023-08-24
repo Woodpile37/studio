@@ -30,7 +30,7 @@
     "fs-extra": "^10.0.1",
     "inquirer": "^8.2.2",
     "lodash": "^4.17.21",
-    "rimraf": "^3.0.2"
+    "rimraf": "^5.0.1"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.5.0",
