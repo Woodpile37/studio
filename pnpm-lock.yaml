@@ -1472,7 +1472,7 @@ packages:
       axios: 0.26.1
       cache-manager: 3.6.0
       class-transformer: 0.5.1
-      class-validator: 0.13.2
+      class-validator: 0.14.0
       iterare: 1.2.1
       reflect-metadata: 0.1.13
       rxjs: 7.5.5
@@ -1544,7 +1544,7 @@ packages:
     dependencies:
       '@nestjs/common': 8.4.2(cache-manager@3.6.0)(class-transformer@0.5.1)(class-validator@0.13.2)(reflect-metadata@0.1.13)(rxjs@7.5.5)
       class-transformer: 0.5.1
-      class-validator: 0.13.2
+      class-validator: 0.14.0
       reflect-metadata: 0.1.13
     dev: true
 
@@ -3068,7 +3068,8 @@ packages:
   /class-validator@0.13.2:
     resolution: {integrity: sha512-yBUcQy07FPlGzUjoLuUfIOXzgynnQPPruyK1Ge2B74k9ROwnle1E+NxLWnUv5OLU8hA/qL5leAE9XnXq3byaBw==}
     dependencies:
-      libphonenumber-js: 1.9.50
+      '@types/validator': 13.7.17
+      libphonenumber-js: 1.10.36
       validator: 13.7.0
 
   /clean-stack@3.0.1:
